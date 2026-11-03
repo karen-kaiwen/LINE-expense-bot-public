@@ -8,9 +8,11 @@
 |---|---|
 | <img src="images/monthly-report.png" width="360"> | <img src="images/annual-report.png" width="360"> |
 
-| 一句話記帳 | 一句話改帳 | 儀表板明細頁 |
-|---|---|---|
-| <img src="images/line-record.jpg" width="260"> | <img src="images/line-modify.jpg" width="260"> | <img src="images/line-details.jpg" width="260"> |
+| 一句話記帳：確認後才寫入 | 一句話改帳：顯示修改前後 |
+|---|---|
+| <img src="images/line-record.jpg" width="360"> | <img src="images/line-modify.jpg" width="360"> |
+| **一句話開報表** | **儀表板明細頁** |
+| <img src="images/line-report.jpg" width="360"> | <img src="images/line-details.jpg" width="360"> |
 
 ## 可以做什麼
 
