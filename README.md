@@ -8,6 +8,10 @@
 |---|---|
 | <img src="images/monthly-report.png" width="360"> | <img src="images/annual-report.png" width="360"> |
 
+| 一句話記帳 | 一句話改帳 | 儀表板明細頁 |
+|---|---|---|
+| <img src="images/line-record.jpg" width="260"> | <img src="images/line-modify.jpg" width="260"> | <img src="images/line-details.jpg" width="260"> |
+
 ## 可以做什麼
 
 - **一句話記帳**：`昨天跟朋友吃拉麵 1200 日圓` → LLM 解析出日期、項目、金額、幣別，並依個人歷史習慣預填分類與付款方式；進確認畫面，可逐欄修改，按下確認才寫入。
